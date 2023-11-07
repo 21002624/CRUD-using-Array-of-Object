@@ -42,3 +42,6 @@ showData();
 deleteData(1);
 showData();
 ```
+# output
+![image](https://github.com/21002624/CRUD-using-Array-of-Object/assets/113762183/ec634d44-c550-4a8d-9684-c590a4b579a8)
+
